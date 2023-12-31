@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Hello world
 
 ini branch 1
+=======
+Hello world
+>>>>>>> master
